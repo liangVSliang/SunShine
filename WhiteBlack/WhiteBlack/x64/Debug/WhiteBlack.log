@@ -1,0 +1,4 @@
+﻿  EasyX.cpp
+D:\LearnVisualStudio\WhiteBlack\WhiteBlack\EasyX.cpp(375,16): warning C4244: “=”: 从“__int64”转换到“byte”，可能丢失数据
+D:\LearnVisualStudio\WhiteBlack\WhiteBlack\EasyX.cpp(424,6): warning C4326: “main”的返回类型应为“int”而非“void”
+  WhiteBlack.vcxproj -> D:\LearnVisualStudio\WhiteBlack\x64\Debug\WhiteBlack.exe

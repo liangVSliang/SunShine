@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LearnVisualStudio\\WhiteBlack\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5CAFEE1-9637-42EE-A410-5C7B033002F4}|WhiteBlack\\WhiteBlack.vcxproj|D:\\LearnVisualStudio\\WhiteBlack\\WhiteBlack\\EasyX.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E5CAFEE1-9637-42EE-A410-5C7B033002F4}|WhiteBlack\\WhiteBlack.vcxproj|solutionrelative:WhiteBlack\\EasyX.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EasyX.cpp",
+              "DocumentMoniker": "D:\\LearnVisualStudio\\WhiteBlack\\WhiteBlack\\EasyX.cpp",
+              "RelativeDocumentMoniker": "WhiteBlack\\EasyX.cpp",
+              "ToolTip": "D:\\LearnVisualStudio\\WhiteBlack\\WhiteBlack\\EasyX.cpp",
+              "RelativeToolTip": "WhiteBlack\\EasyX.cpp",
+              "ViewState": "AQIAAMMAAAAAAAAAAAAAANUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-11T03:13:10.188Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
